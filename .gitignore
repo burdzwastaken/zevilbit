@@ -1,0 +1,21 @@
+.zig-cache/
+zig-out/
+*.o
+
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+*.cmd
+.tmp_versions/
+Module.symvers
+modules.order
+
+# editor/IDE
+.direnv/
+.vscode/
+.idea/
+
+# build crap
+*.a
+*.so
